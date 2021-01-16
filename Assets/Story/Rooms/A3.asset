@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096f426f3035ae8459d5e698735f235d, type: 3}
+  m_Name: A3
+  m_EditorClassIdentifier: 
+  storyText: "Ao seguir pelo outro caminho, voc\xEA se depara com um calabou\xE7o
+    pr\xF3ximo ao reino, por\xE9m voc\xEA escuta uma voz dizendo para n\xE3o seguir.\r\n\r\n1-
+    Ignorar e seguir em frente\r\n2- Conversar com a voz"
+  nextStates:
+  - {fileID: 11400000, guid: 529b1ae175d19034c83a719ed323989a, type: 2}
+  - {fileID: 11400000, guid: bb312765adb8eb14498d22c95c13650a, type: 2}

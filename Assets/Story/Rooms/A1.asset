@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096f426f3035ae8459d5e698735f235d, type: 3}
+  m_Name: A1
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA encontra uma bruxa na rua e ela diz que voc\xEA ter\xE1 grandes
+    problemas a frente:\r\n\r\n1- Ignorar e seguir em frente\r\n2- Perguntar qual
+    os problemas"
+  nextStates:
+  - {fileID: 11400000, guid: b15354d743343c642bcd8e21feb986c1, type: 2}
+  - {fileID: 11400000, guid: ce9cdaa097dc6e9489c41178a0f10a0f, type: 2}

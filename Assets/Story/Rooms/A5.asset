@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 096f426f3035ae8459d5e698735f235d, type: 3}
+  m_Name: A5
+  m_EditorClassIdentifier: 
+  storyText: "Voc\xEA ent\xE3o passa direto pelo drag\xE3o e chega no trono do rei,
+    onde ele est\xE1 dormindo:\r\n\r\n1- Matar o rei\r\n2- Matar o rei"
+  nextStates:
+  - {fileID: 11400000, guid: 51c79bd7d1b22a24fb22cad0d78c8736, type: 2}
+  - {fileID: 11400000, guid: 51c79bd7d1b22a24fb22cad0d78c8736, type: 2}
